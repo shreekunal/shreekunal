@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align = "right" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" height="250" width="400">
+<img align="right" 
+     src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
+     height="250" 
+     width="400" 
+     style="border: 5px solid orangered; border-radius: 15px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekunal&label=Profile%20views&color=0e75b6&style=flat" alt="shreekunal" /> </p>
 
 - 🔭 I’m currently working on [on my Problem Solving Skills](https://github.com/shreekunal/DSA-Practice)
