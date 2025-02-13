@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <img align="right" 
      src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
      height="250" 
