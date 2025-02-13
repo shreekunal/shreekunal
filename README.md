@@ -50,5 +50,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekunal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shreekunal&theme=dark&hide_border=false" height="220" alt="GitHub Streak" /></p>
