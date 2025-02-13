@@ -14,8 +14,8 @@
 - ⚡ Fun fact **I am funny😂😉**
 
 <h3 align="left">Connect with me:</h3>
+<img align = "right" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 <p align="left">
-<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 <a href="https://linkedin.com/in/shreekunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreekunal" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
