@@ -49,16 +49,14 @@
   </a> 
 </p>
 
-<div align="center">
+<p><div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekunal&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
-</div>
+</div></p>
 
-<div align="center">
+<p><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</div>
+</div></p>
 
-<div align="center">
+<p><div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekunal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreekunal&" alt="shreekunal" /></p>
+</div></p>
