@@ -16,8 +16,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shreekunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreekunal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreekunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreekunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" alt="shreekunal" height="30" width="40" /></a>
 </p>
+
+###
+
+<div align="left">
+  <img   />
+  <img  height="35" alt="linkedin logo"  />
+</div>
 
 ###
 
