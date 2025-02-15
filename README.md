@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
