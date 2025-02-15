@@ -59,3 +59,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekunal&theme=dark&hide_border=false" height="220" alt="GitHub Streak" /></p>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shreekunal/shreekunal/output/snake.svg" alt="Snake animation" />
