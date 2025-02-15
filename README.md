@@ -22,13 +22,6 @@
 
 ###
 
-<div align="left">
-  <img   />
-  <img  height="35" alt="linkedin logo"  />
-</div>
-
-###
-
 <h3 align="left">Languages and Tools:</h3>
 
 ###
