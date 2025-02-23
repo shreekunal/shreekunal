@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shreekunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="32" width="120" /></a>
+<a href="https://linkedin.com/in/shreekunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="25" /></a>
 
-<a href="mailto:shrii.kunal@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="32" width="110" />
+<a href="mailto:shrii.kunal@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="25" />
 
-<a href="https://www.hackerrank.com/profile/shrii_kunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="32" width="110" />
+<a href="https://www.hackerrank.com/profile/shrii_kunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="25" />
 
 </a>
 </p>
