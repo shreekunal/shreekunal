@@ -57,7 +57,7 @@
 
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shreekunal&theme=highcontrast&border_radius=3" alt="GitHub Streak" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekunal&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekunal&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" /></p>
 
