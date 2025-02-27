@@ -13,8 +13,6 @@
 - 📫 How to reach me **📩 shrii.kunal@gmail.com**
 - ⚡ Fun fact: **I can center a div in just one attempt! (Most of the time 😆)**
 
----
-
 ## 🌐 Connect with Me  
 
 <p align="left">
@@ -22,8 +20,6 @@
 <a href="https://www.hackerrank.com/profile/shrii_kunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="32"/></a>
 <a href="mailto:shrii.kunal@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="32"/></a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools  
 
@@ -51,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js 🚀" />
 </div>
 
----
+
 
 ## 📊 GitHub Stats  
 
