@@ -13,7 +13,7 @@
 - 📫 How to reach me **📩 shrii.kunal@gmail.com**
 - ⚡ Fun fact: **I can center a div in just one attempt! (Most of the time 😆)**
 
-Connect with Me  
+## Connect with Me  
 
 <p align="left">
 <a href="https://linkedin.com/in/shreekunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="32"/></a>
