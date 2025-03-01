@@ -47,7 +47,7 @@
 </div>
 
 
-<h3> 📊 GitHub Stats</h3>  
+<h2> 📊 GitHub Stats</h2>  
 
 <p><img src="[https://github-readme-streak-stats.herokuapp.com?user=shreekunal&theme=highcontrast&border_radius=3](https://github-readme-streak-stats.herokuapp.com?user=shreekunal&theme=chartreuse-dark&hide_border=true&card_width=510)" alt="GitHub Streak 🔥" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekunal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages 🚀" /></p>
