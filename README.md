@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" height="250" width="400">
+<img align="right" src="https://leetcard.jacoblin.cool/shreekunal?theme=dark&font=Text%20Me%20One&ext=heatmap" height="250" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekunal&label=Profile%20views&color=0e75b6&style=flat" alt="shreekunal"/> </p>
 
@@ -57,4 +57,3 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats 📈" /></p>
-<p><img align="center" src="https://leetcard.jacoblin.cool/shreekunal?theme=dark&font=Text%20Me%20One&ext=heatmap" alt="GitHub Stats 📈" /></p>
