@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-<img align="right" src="https://leetcard.jacoblin.cool/shreekunal?theme=dark&font=Text%20Me%20One&ext=heatmap" height="250" width="400">
+<img align="right" src="https://leetcard.jacoblin.cool/shreekunal?theme=chartreuse&font=Text%20Me%20One" height="250" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekunal&label=Profile%20views&color=0e75b6&style=flat" alt="shreekunal"/> </p>
 
