@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **React ⚛️**
 - 💬 Ask me about **JavaScript ⚡, Java ☕, GSAP 🎨**
 - 📫 How to reach me **📩 shrii.kunal@gmail.com**
-- ⚡ Fun fact: **I can center a div in just one attempt! (Most of the time 😆)**
 
 ## Connect with Me  
 
