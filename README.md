@@ -53,4 +53,5 @@
 <p><img src="[https://github-readme-streak-stats.herokuapp.com?user=shreekunal&theme=highcontrast&border_radius=3](https://github-readme-streak-stats.herokuapp.com?user=shreekunal&theme=chartreuse-dark&hide_border=true&card_width=510)" alt="GitHub Streak 🔥" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekunal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages 🚀" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats 📈" /></p>
-<p><img align="center" src="https://leetcard.jacoblin.cool/shreekunal?theme=chartreuse&font=Text%20Me%20One&ext=heatmap" alt="GitHub Stats 📈" /></p>
+<p><img align="right
+     " src="https://leetcard.jacoblin.cool/shreekunal?theme=chartreuse&font=Text%20Me%20One&ext=heatmap" alt="GitHub Stats 📈" /></p>
