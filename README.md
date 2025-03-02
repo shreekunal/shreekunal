@@ -12,7 +12,7 @@
 - 💬 Ask me about **JavaScript ⚡, Java ☕, GSAP 🎨**
 - 📫 How to reach me **📩 shrii.kunal@gmail.com**
 
-## Connect with Me  
+<h3>Connect with Me</h3>  
 
 <p align="left">
 <a href="https://linkedin.com/in/shreekunal" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="32"/></a>
