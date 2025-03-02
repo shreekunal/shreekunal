@@ -20,7 +20,7 @@
 <a href="mailto:shrii.kunal@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="shreekunal" height="32"/></a>
 </p>
 
-## 🛠️ Languages & Tools  
+<h3>🛠️ Languages & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java ☕" />
