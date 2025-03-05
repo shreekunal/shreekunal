@@ -3,7 +3,7 @@
 
 <img align="right" src="https://leetcard.jacoblin.cool/shreekunal?theme=chartreuse&font=Livvic&hide_border=true" height="250" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekunal&label=Profile%20views&color=6BD600&style=flat" alt="shreekunal"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekunal&label=Profile%20views&color=6BD600&style=flat&hide_border=true" alt="shreekunal"/> </p>
 
 ### 🛠️ About Me  
 
