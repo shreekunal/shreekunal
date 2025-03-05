@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-<img align="right" src="https://leetcard.jacoblin.cool/shreekunal?theme=chartreuse&font=Baloo%20Bhai%202&show_rank=false&border=0&radius=20" height="250" width="400">
+<img align="right" src="https://leetcard.jacoblin.cool/shreekunal?theme=chartreuse&font=Baloo%20Bhai%202&show_rank=false&border=0&radius=10" height="250" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekunal&label=Profile%20views&color=6BD600&style=flat" alt="shreekunal"/> </p>
 
@@ -52,4 +52,4 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=shreekunal&theme=chartreuse-dark&hide_border=true&card_width=500" alt="" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekunal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="" /></p>
-<p><img align="center" width="550" src="https://leetcard.jacoblin.cool/shreekunal?theme=chartreuse&font=Baloo%20Bhai%202&ext=heatmap&show_rank=false&border=0&radius=20" alt="" /></p>
+<p><img align="center" width="550" src="https://leetcard.jacoblin.cool/shreekunal?theme=chartreuse&font=Baloo%20Bhai%202&ext=heatmap&show_rank=false&border=0&radius=10" alt="" /></p>
