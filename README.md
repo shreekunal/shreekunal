@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E50914&icon_color=E50914" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shreekunal&show_icons=true&include_all_commits=true&hide=stars,prs,issues&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E50914&icon_color=E50914" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekunal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E50914" alt="Top Languages" width="48%" />
 
 <br/>
