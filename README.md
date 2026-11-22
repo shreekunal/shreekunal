@@ -20,37 +20,6 @@
 
 ---
 
-## Featured Systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shreekunal/CricSaga">🏏 CricSaga</a></h3>
-      <sub><code>Kotlin</code> • <code>Jetpack Compose</code> • <code>Room SQLite WAL</code> • <code>Material 3</code></sub>
-      <p>Native Android cricket scoring and analytics app for grassroots matches. Works fully offline, with a fast scoring keypad, dark and sunlight display modes, and custom Manhattan and Worm charts.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shreekunal/cognicode">💻 CogniCode</a></h3>
-      <sub><code>Next.js 14</code> • <code>React 18</code> • <code>FastAPI Runner</code> • <code>MongoDB</code> • <code>CodeMirror</code></sub>
-      <p>Online coding platform that compiles and runs Java, Python, C++, and JavaScript in a sandbox, with split-pane editors and a built-in problem set.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shreekunal/3-Eyed-Raven">👁️ 3-Eyed Raven</a></h3>
-      <sub><code>Next.js 14</code> • <code>React 18</code> • <code>Supabase S3</code> • <code>better-sqlite3 WAL</code> • <code>SheetJS</code></sub>
-      <p>Workforce monitoring platform with automated screen capture stored privately in Supabase S3 (expiring presigned URLs), on-demand admin snapshots, and Excel task sync.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shreekunal/Everthing.OS-Releases">📱 Everything.OS</a></h3>
-      <sub><code>Next.js 14</code> • <code>React 18</code> • <code>Prisma</code> • <code>Capacitor Android</code> • <code>Health Connect</code></sub>
-      <p>Personal productivity app for web and Android: offline-first caching, Pomodoro focus tracking, Health Connect step and hydration sync, home-screen widgets, and a biometric-locked vault.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Technical Expertise
 
 <table>
