@@ -10,11 +10,6 @@
 <br/>
 <br/>
 
-Associate SAP BTP Consultant at Raven Infotech specializing in enterprise cloud architecture, CAP microservices, and Joule AI agents.  
-Engineering offline-first native Android applications in Kotlin and modern distributed systems in Next.js and Python.
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreekunal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreekunal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shreekunal)
@@ -60,16 +55,6 @@ Engineering offline-first native Android applications in Kotlin and modern distr
 ![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 </div>
-
----
-
-## Professional Certifications
-
-| Certification | Validity | Verification |
-| :--- | :--- | :--- |
-| **SAP Certified — SAP Fiori Application Developer** | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/6c7b3744-b0f9-4590-a619-ab8d82e148de/public_url) |
-| **SAP Certified — Backend Developer — SAP CAP Model** | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/f4287add-dcb5-4ed5-8697-5d2dd7cff011/public_url) |
-| **SAP Certified — Joule Studio Developer** | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/82efc92d-0334-44ee-8a2d-87943c314006/public_url) |
 
 ---
 
