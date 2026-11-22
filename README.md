@@ -3,31 +3,24 @@
 # Kunal Singh
 ### Associate SAP BTP Consultant & Systems Architect
 
-[![SAP Certified](https://img.shields.io/badge/SAP%20SE-3x%20Certified-008fd3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/users/shreekunal)
+[![SAP Certified Fiori Developer](https://img.shields.io/badge/SAP%20Certified-Fiori%20Developer-0a85ea?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/6c7b3744-b0f9-4590-a619-ab8d82e148de/public_url)
+[![SAP Certified CAP Developer](https://img.shields.io/badge/SAP%20Certified-CAP%20Backend-005fa3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/f4287add-dcb5-4ed5-8697-5d2dd7cff011/public_url)
+[![SAP Certified Joule Studio](https://img.shields.io/badge/SAP%20Certified-Joule%20AI%20Studio-7b1fa2?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/82efc92d-0334-44ee-8a2d-87943c314006/public_url)
+
+<br/>
+<br/>
+
+Associate SAP BTP Consultant at Raven Infotech specializing in enterprise cloud architecture, CAP microservices, and Joule AI agents.  
+Engineering offline-first native Android applications in Kotlin and modern distributed systems in Next.js and Python.
 
 <br/>
 
-> Engineering enterprise SAP BTP extensions, distributed cloud systems, offline-first mobile architectures, and generative AI agents.
-
-<p align="center">
-  <a href="#overview"><b>Overview</b></a> •
-  <a href="#technical-expertise"><b>Tech Stack</b></a> •
-  <a href="#professional-certifications"><b>Certifications</b></a> •
-  <a href="#telemetry--activity"><b>Activity</b></a> •
-  <a href="#featured-systems"><b>Featured Systems</b></a> •
-  <a href="#contact"><b>Contact</b></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreekunal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreekunal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shreekunal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrii.kunal@gmail.com)
 
 </div>
-
----
-
-## Overview
-
-- **Role**: Associate SAP BTP Consultant at **Raven Infotech** (Delhi, India)
-- **Education**: Master of Computer Applications (MCA '26), **KIET Group of Institutions**
-- **Certifications**: Triple SAP SE Certified in SAP Fiori, SAP CAP Backend, and Joule Studio
-- **Focus**: Enterprise BTP Extensions, CAP/CDS Microservices, AI Agents, and Offline-First Android
 
 ---
 
@@ -109,19 +102,8 @@
 - **[Everything.OS](https://github.com/shreekunal/Everthing.OS-Releases)** (`Next.js 14` • `React 18` • `Prisma` • `Capacitor Android` • `Health Connect`)  
   Cross-platform personal operating system featuring sub-50ms offline SWR caching, Pomodoro focus session tracking, Android Health Connect step and hydration synchronization, glanceable home widgets, and biometric vault security.
 
----
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreekunal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreekunal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shreekunal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrii.kunal@gmail.com)
-
 <br/>
 
+<div align="center">
 <sub>Kunal Singh • Enterprise Cloud Architecture & Systems Engineering</sub>
-
 </div>
