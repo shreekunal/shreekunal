@@ -16,6 +16,22 @@
 
 ---
 
+## Featured Systems
+
+- **[CricSaga](https://github.com/shreekunal/CricSaga)** (`Kotlin` • `Jetpack Compose` • `Room SQLite WAL` • `Material 3`)  
+  Native Android grassroots cricket scoring and analytics platform. Engineered with a 100% offline-first domain engine, zero-friction keypad geometry, all-weather Dark Stadium/Sunlight modes, and custom Canvas-rendered Manhattan and Worm charts.
+
+- **[CogniCode](https://github.com/shreekunal/cognicode)** (`Next.js 14` • `React 18` • `FastAPI Runner` • `MongoDB` • `CodeMirror`)  
+  Collaborative online developer coding platform with sandboxed real-time compilation and execution across Java, Python, C++, and JavaScript, featuring responsive split-pane editors and an interactive problem suite.
+
+- **[3-Eyed Raven](https://github.com/shreekunal/3-Eyed-Raven)** (`Next.js 14` • `React 18` • `Supabase S3` • `better-sqlite3 WAL` • `SheetJS`)  
+  Enterprise workforce monitoring and anti-cheating platform. Features automated screen telemetry uploaded to private Supabase S3 via AWS SigV4 1-hour presigned URLs, strict full-screen capture policies (`displaySurface: monitor`), admin on-demand snapshots, and Excel task sync.
+
+- **[Everything.OS](https://github.com/shreekunal/Everthing.OS-Releases)** (`Next.js 14` • `React 18` • `Prisma` • `Capacitor Android` • `Health Connect`)  
+  Cross-platform personal operating system featuring sub-50ms offline SWR caching, Pomodoro focus session tracking, Android Health Connect step and hydration synchronization, glanceable home widgets, and biometric vault security.
+
+---
+
 ## Technical Expertise
 
 <div align="center">
@@ -26,7 +42,6 @@
 ![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0a85ea?style=for-the-badge&logo=sap&logoColor=white)
 ![Joule Studio](https://img.shields.io/badge/Joule%20AI%20Studio-7b1fa2?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Integration Suite](https://img.shields.io/badge/SAP%20Integration%20Suite-0288d1?style=for-the-badge&logo=sap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Languages & Core Runtimes
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,10 +51,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Web & Mobile Frameworks
+### Web & Backend Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -59,29 +73,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekunal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E50914" alt="Top Languages" width="60%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=shreekunal&theme=tokyonight&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakNum=E50914" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekunal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E50914" alt="Top Languages" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=shreekunal&theme=tokyonight&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakNum=E50914" alt="GitHub Streak" width="48%" />
 
 </div>
-
----
-
-## Featured Systems
-
-- **[CricSaga](https://github.com/shreekunal/CricSaga)** (`Kotlin` • `Jetpack Compose` • `Room SQLite WAL` • `Material 3`)  
-  Native Android grassroots cricket scoring and analytics platform. Engineered with a 100% offline-first domain engine, zero-friction keypad geometry, all-weather Dark Stadium/Sunlight modes, and custom Canvas-rendered Manhattan and Worm charts.
-
-- **[CogniCode](https://github.com/shreekunal/cognicode)** (`Next.js 14` • `React 18` • `FastAPI Runner` • `MongoDB` • `CodeMirror`)  
-  Collaborative online developer coding platform with sandboxed real-time compilation and execution across Java, Python, C++, and JavaScript, featuring responsive split-pane editors and an interactive problem suite.
-
-- **[3-Eyed Raven](https://github.com/shreekunal/3-Eyed-Raven)** (`Next.js 14` • `React 18` • `Supabase S3` • `better-sqlite3 WAL` • `SheetJS`)  
-  Enterprise workforce monitoring and anti-cheating platform. Features automated screen telemetry uploaded to private Supabase S3 via AWS SigV4 1-hour presigned URLs, strict full-screen capture policies (`displaySurface: monitor`), admin on-demand snapshots, and Excel task sync.
-
-- **[Everything.OS](https://github.com/shreekunal/Everthing.OS-Releases)** (`Next.js 14` • `React 18` • `Prisma` • `Capacitor Android` • `Health Connect`)  
-  Cross-platform personal operating system featuring sub-50ms offline SWR caching, Pomodoro focus session tracking, Android Health Connect step and hydration synchronization, glanceable home widgets, and biometric vault security.
 
 <br/>
 
