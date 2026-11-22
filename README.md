@@ -9,12 +9,7 @@
 
 <br/>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  Enterprise Cloud Extensions  •  Offline-First Engines      │
-│  Joule AI Agents              •  High-Performance Tooling  │
-└─────────────────────────────────────────────────────────────┘
-```
+> **Engineering enterprise SAP BTP extensions, reactive native Android systems, offline-first architectures & Joule AI agents.**
 
 <p align="center">
   <a href="#-featured-engineering-systems"><b>Featured Systems</b></a> •
@@ -42,22 +37,8 @@
 ### 🏏 CricSaga — Grassroots Cricket Scoring & Community Engine
 > **"Har Run Ki Kahani"** — High-performance native Android cricket scoring, analytics, and grassroots community platform built for turf tournaments, box leagues, and gully matches across India and South Asia.
 
-```text
-+-------------------------------------------------------------+
-|                CRICSAGA SYSTEM TOPOLOGY                     |
-|                                                             |
-|  [ Jetpack Compose UI ] <---> [ MVI / MVVM State Reducer ]  |
-|                                         |                   |
-|                                         v                   |
-|  [ Offline Domain Engine ] <---> [ Room SQLite (WAL Mode) ] |
-|                                         |                   |
-|                                         v                   |
-|  [ Canvas Graphics Engine: Manhattan Charts & Worm Graphs ] |
-+-------------------------------------------------------------+
-```
-
+- **Stack**: `Kotlin` • `Jetpack Compose` • `Room SQLite (WAL)` • `Material 3` • `Clean Architecture (MVI/MVVM)`
 - **Repository**: [github.com/shreekunal/CricSaga](https://github.com/shreekunal/CricSaga)
-- **Stack**: `Kotlin` • `Jetpack Compose` • `Room SQLite (WAL)` • `Material 3` • `Clean Architecture`
 - **Key Architectural Highlights**:
   - **Zero Learning Curve Keypad**: Exact scoring keypad geometry (`0-3`, `4, 6, Wd, Nb`, `B, Lb, OUT, UNDO`) eliminating cognitive friction.
   - **100% Offline-First State Engine**: Pure Kotlin domain logic with local Room SQLite Write-Ahead Logging — zero lost deliveries during remote ground cellular dropouts.
@@ -69,23 +50,8 @@
 ### 💻 CogniCode — Multi-Language Collaborative Cloud IDE
 > High-throughput online developer coding workspace and instant compilation platform with real-time runner execution and interactive algorithmic challenge suites.
 
-```text
-+-------------------------------------------------------------+
-|               COGNICODE PLATFORM TOPOLOGY                   |
-|                                                             |
-|  [ Next.js 14 Client ] <---> [ CodeMirror Split-Pane ]      |
-|           |                                                 |
-|           v                                                 |
-|  [ FastAPI Runner ] <---> Sandboxed Execution Container     |
-|                           (Java / Python / C++ / JS)        |
-|           |                                                 |
-|           v                                                 |
-|  [ MongoDB Engine ] <---> User Workspace & Problem State    |
-+-------------------------------------------------------------+
-```
-
-- **Repository**: [github.com/shreekunal/cognicode](https://github.com/shreekunal/cognicode)
 - **Stack**: `Next.js 14` • `React 18` • `Python FastAPI Runner` • `MongoDB` • `CodeMirror` • `Tailwind CSS` • `NextAuth`
+- **Repository**: [github.com/shreekunal/cognicode](https://github.com/shreekunal/cognicode)
 - **Key Architectural Highlights**:
   - **Multi-Language Runner**: Sandboxed compilation and code execution engine for Java, Python, C++, and JavaScript.
   - **Modular Code Editor**: Custom CodeMirror integration with developer themes, syntax highlighting, and responsive split-pane layouts.
@@ -97,25 +63,8 @@
 ### 🦅 3-Eyed Raven — Workforce Monitoring & Anti-Cheating Telemetry
 > **"I see everything. I remember everything."** — Full-stack workforce screen time monitoring, screenshot audit telemetry, Cloud Object Storage, anti-cheating, and Excel task management platform.
 
-```text
-+-------------------------------------------------------------+
-|              3-EYED RAVEN SECURITY TOPOLOGY                 |
-|                                                             |
-|  [ getDisplayMedia Telemetry ] ---> displaySurface: monitor |
-|                 |                   (Enforces Full Screen)  |
-|                 v                                           |
-|  [ Admin Snapshot Signal ] ----> On-Demand Instant Frame    |
-|                 |                                           |
-|                 v                                           |
-|  [ Private Supabase S3 ] ------> AWS SigV4 Presigned URLs   |
-|                 |                (1-Hour Auto-Expiry)       |
-|                 v                                           |
-|  [ SQLite WAL Database ] ------> 24h Heatmaps & Audit Logs  |
-+-------------------------------------------------------------+
-```
-
+- **Stack**: `Next.js 14 (App Router)` • `React 18` • `Supabase S3 Cloud Storage` • `better-sqlite3 (WAL)` • `SheetJS` • `JWT Auth`
 - **Repository**: [github.com/shreekunal/3-Eyed-Raven](https://github.com/shreekunal/3-Eyed-Raven)
-- **Stack**: `Next.js 14 (App Router)` • `React 18` • `Supabase S3 Cloud Storage` • `better-sqlite3 (WAL)` • `SheetJS` • `JWT`
 - **Key Architectural Highlights**:
   - **Direct S3 Telemetry**: Automated screen captures uploaded directly to private Supabase S3 buckets with dynamically resolved AWS SigV4 1-hour presigned GET URLs.
   - **Strict Anti-Cheating Guard**: Enforces `displaySurface: 'monitor'` via HTML5 `getDisplayMedia` — single-window or single-tab sharing is strictly rejected.
@@ -128,24 +77,8 @@
 ### 📱 Everything.OS — Personal Life Operating System
 > Cross-platform personal operating system and daily performance engine unifying deep-focus Pomodoro sessions, step telemetry, intelligent hydration, and biometric security.
 
-```text
-+-------------------------------------------------------------+
-|               EVERYTHING.OS HYBRID TOPOLOGY                 |
-|                                                             |
-|  [ Next.js 14 Web / PWA ] <---> [ Capacitor Native Bridge ] |
-|                                             |               |
-|                                             v               |
-|  [ SWR Offline Caching ]        [ Android Health Connect ]  |
-|  (Sub-50ms State Sync)          (Steps & Hydration Sync)    |
-|                                             |               |
-|                                             v               |
-|  [ Biometric Auth Vault ]       [ Native Home Widgets ]     |
-|  (Fingerprint & Face Unlock)    (Live 7-Day Performance)    |
-+-------------------------------------------------------------+
-```
-
-- **Releases Repository**: [github.com/shreekunal/Everthing.OS-Releases](https://github.com/shreekunal/Everthing.OS-Releases)
 - **Stack**: `Next.js 14` • `React 18` • `Prisma ORM` • `Capacitor (Android APK)` • `Health Connect API` • `Tailwind CSS`
+- **Releases Repository**: [github.com/shreekunal/Everthing.OS-Releases](https://github.com/shreekunal/Everthing.OS-Releases)
 - **Key Architectural Highlights**:
   - **Offline-First SWR Caching**: Sub-50ms instant data access with seamless offline mutation queuing and optimistic UI updates.
   - **Deep Focus Engine**: Smart Pomodoro session companion with deep work tracking and study statistics.
