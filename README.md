@@ -1,41 +1,47 @@
 <div align="center">
 
-# ⚡ KUNAL SINGH
-### Associate SAP BTP Consultant & Full-Stack Systems Architect
+# Kunal Singh
+### Associate SAP BTP Consultant & Systems Architect
 
-[![SAP Certified](https://img.shields.io/badge/SAP%20SE-3x%20CERTIFIED-008fd3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/users/shreekunal)
+[![SAP Certified](https://img.shields.io/badge/SAP%20SE-3x%20Certified-008fd3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/users/shreekunal)
 
 <br/>
 
-> **Engineering enterprise SAP BTP extensions, reactive native Android systems, offline-first architectures & Joule AI agents.**
+> Engineering enterprise SAP BTP extensions, distributed cloud systems, offline-first mobile architectures, and generative AI agents.
 
 <p align="center">
-  <a href="#-about-me"><b>About</b></a> •
-  <a href="#-technical-arsenal"><b>Tech Stack</b></a> •
-  <a href="#-verified-sap-se-credentials"><b>Certifications</b></a> •
-  <a href="#-github-telemetry"><b>Activity Stats</b></a> •
-  <a href="#-featured-systems"><b>Featured Systems</b></a> •
-  <a href="#-connect--collaborate"><b>Contact</b></a>
+  <a href="#overview"><b>Overview</b></a> •
+  <a href="#technical-expertise"><b>Technical Expertise</b></a> •
+  <a href="#professional-certifications"><b>Certifications</b></a> •
+  <a href="#telemetry--activity"><b>Activity</b></a> •
+  <a href="#featured-systems"><b>Featured Systems</b></a> •
+  <a href="#contact"><b>Contact</b></a>
 </p>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## Overview
 
-- 🏢 **Associate SAP BTP Consultant** at **Raven Infotech** (Delhi, India)
-- 🎓 **Master of Computer Applications (MCA '26)** at **KIET Group of Institutions**
-- 🏅 **Triple-Certified by SAP SE** across Fiori Application Development, CAP Backend Development, and Joule Studio AI Agents
-- 🛠️ **System Engineering Focus**: Specializing in enterprise SAP BTP extensions, reactive native Android clients, anti-cheating telemetry, and multi-language developer tooling
+Associate SAP BTP Consultant at **Raven Infotech** with hands-on experience in architecting and delivering enterprise-grade cloud extensions, transactional microservices, and AI-driven automation. Core specialization covers the **SAP Cloud Application Programming Model (CAP)**, **SAP Fiori Elements**, **SAP Integration Suite**, and **Joule Studio AI agents**, integrated seamlessly with modern distributed stacks built on **Next.js**, **Node.js/NestJS**, and **Python**.
+
+Beyond enterprise cloud platforms, experienced in engineering high-performance, offline-first native Android applications using **Kotlin**, **Jetpack Compose**, and **Room SQLite (WAL)**, alongside containerized developer workspaces. Currently completing a Master of Computer Applications (MCA '26) at KIET Group of Institutions.
+
+| Dimension | Details |
+| :--- | :--- |
+| **Current Position** | Associate SAP BTP Consultant at Raven Infotech (Delhi, India) |
+| **Academic Credential** | Master of Computer Applications (MCA '26), KIET Group of Institutions |
+| **Vendor Certifications** | Triple SAP SE Certified: Fiori Developer, CAP Backend, Joule Studio Developer |
+| **Core Competencies** | Enterprise Extensions, Event-Driven Integration, Offline-First Mobile, AI Agents |
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Expertise
 
 <div align="center">
 
-### Enterprise & Cloud Systems
+### Enterprise & Cloud Platforms
 ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-008fd3?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP CAP](https://img.shields.io/badge/SAP%20CAP-005fa3?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0a85ea?style=for-the-badge&logo=sap&logoColor=white)
@@ -51,7 +57,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Web, Mobile & Frameworks
+### Web & Mobile Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -70,7 +76,7 @@
 
 ---
 
-## 🏆 Verified SAP SE Credentials
+## Professional Certifications
 
 | Credential | Code | Issuer | Validity | Verification |
 | :--- | :--- | :--- | :--- | :--- |
@@ -80,7 +86,7 @@
 
 ---
 
-## 📊 GitHub Telemetry
+## Telemetry & Activity
 
 <div align="center">
 
@@ -95,23 +101,23 @@
 
 ---
 
-## 🚀 Featured Systems
+## Featured Systems
 
-- **[🏏 CricSaga](https://github.com/shreekunal/CricSaga)** (`Kotlin` • `Jetpack Compose` • `Room SQLite WAL` • `Material 3`)  
-  High-performance native Android cricket scoring and grassroots analytics platform. Engineered with a 100% offline-first domain engine, zero-friction keypad geometry, all-weather Dark Stadium/Sunlight modes, and custom Canvas-rendered Manhattan and Worm charts.
+- **[CricSaga](https://github.com/shreekunal/CricSaga)** (`Kotlin` • `Jetpack Compose` • `Room SQLite WAL` • `Material 3`)  
+  Native Android grassroots cricket scoring and analytics platform. Engineered with a 100% offline-first domain engine, zero-friction keypad geometry, all-weather Dark Stadium/Sunlight modes, and custom Canvas-rendered Manhattan and Worm charts.
 
-- **[💻 CogniCode](https://github.com/shreekunal/cognicode)** (`Next.js 14` • `React 18` • `FastAPI Runner` • `MongoDB` • `CodeMirror`)  
+- **[CogniCode](https://github.com/shreekunal/cognicode)** (`Next.js 14` • `React 18` • `FastAPI Runner` • `MongoDB` • `CodeMirror`)  
   Collaborative online developer coding platform with sandboxed real-time compilation and execution across Java, Python, C++, and JavaScript, featuring responsive split-pane editors and an interactive problem suite.
 
-- **[🦅 3-Eyed Raven](https://github.com/shreekunal/3-Eyed-Raven)** (`Next.js 14` • `React 18` • `Supabase S3` • `better-sqlite3 WAL` • `SheetJS`)  
+- **[3-Eyed Raven](https://github.com/shreekunal/3-Eyed-Raven)** (`Next.js 14` • `React 18` • `Supabase S3` • `better-sqlite3 WAL` • `SheetJS`)  
   Enterprise workforce monitoring and anti-cheating platform. Features automated screen telemetry uploaded to private Supabase S3 via AWS SigV4 1-hour presigned URLs, strict full-screen capture policies (`displaySurface: monitor`), admin on-demand snapshots, and Excel task sync.
 
-- **[📱 Everything.OS](https://github.com/shreekunal/Everthing.OS-Releases)** (`Next.js 14` • `React 18` • `Prisma` • `Capacitor Android` • `Health Connect`)  
-  Cross-platform personal life operating system featuring sub-50ms offline SWR caching, Pomodoro focus session tracking, Android Health Connect step and hydration synchronization, glanceable home widgets, and biometric vault security.
+- **[Everything.OS](https://github.com/shreekunal/Everthing.OS-Releases)** (`Next.js 14` • `React 18` • `Prisma` • `Capacitor Android` • `Health Connect`)  
+  Cross-platform personal operating system featuring sub-50ms offline SWR caching, Pomodoro focus session tracking, Android Health Connect step and hydration synchronization, glanceable home widgets, and biometric vault security.
 
 ---
 
-## 📫 Connect & Collaborate
+## Contact
 
 <div align="center">
 
@@ -122,6 +128,6 @@
 
 <br/>
 
-<sub>Designed with precision & performance in mind • Kunal Singh © 2026</sub>
+<sub>Kunal Singh • Enterprise Cloud Architecture & Systems Engineering</sub>
 
 </div>
