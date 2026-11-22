@@ -12,10 +12,11 @@
 > **Engineering enterprise SAP BTP extensions, reactive native Android systems, offline-first architectures & Joule AI agents.**
 
 <p align="center">
-  <a href="#-featured-engineering-systems"><b>Featured Systems</b></a> •
+  <a href="#-about-me"><b>About</b></a> •
   <a href="#-technical-arsenal"><b>Tech Stack</b></a> •
   <a href="#-verified-sap-se-credentials"><b>Certifications</b></a> •
   <a href="#-github-telemetry"><b>Activity Stats</b></a> •
+  <a href="#-featured-systems"><b>Featured Systems</b></a> •
   <a href="#-connect--collaborate"><b>Contact</b></a>
 </p>
 
@@ -29,62 +30,6 @@
 - 🎓 **Master of Computer Applications (MCA '26)** at **KIET Group of Institutions**
 - 🏅 **Triple-Certified by SAP SE** across Fiori Application Development, CAP Backend Development, and Joule Studio AI Agents
 - 🛠️ **System Engineering Focus**: Specializing in enterprise SAP BTP extensions, reactive native Android clients, anti-cheating telemetry, and multi-language developer tooling
-
----
-
-## 🚀 Featured Engineering Systems
-
-### 🏏 CricSaga — Grassroots Cricket Scoring & Community Engine
-> **"Har Run Ki Kahani"** — High-performance native Android cricket scoring, analytics, and grassroots community platform built for turf tournaments, box leagues, and gully matches across India and South Asia.
-
-- **Stack**: `Kotlin` • `Jetpack Compose` • `Room SQLite (WAL)` • `Material 3` • `Clean Architecture (MVI/MVVM)`
-- **Repository**: [github.com/shreekunal/CricSaga](https://github.com/shreekunal/CricSaga)
-- **Key Architectural Highlights**:
-  - **Zero Learning Curve Keypad**: Exact scoring keypad geometry (`0-3`, `4, 6, Wd, Nb`, `B, Lb, OUT, UNDO`) eliminating cognitive friction.
-  - **100% Offline-First State Engine**: Pure Kotlin domain logic with local Room SQLite Write-Ahead Logging — zero lost deliveries during remote ground cellular dropouts.
-  - **All-Weather Dual Theming**: Instant switching between **Dark Stadium Mode** (OLED slate `#0A0B0E`) and **Crisp Sunlight Light Mode** (`#F4F5F8`) engineered for intense midday sun.
-  - **Canvas Graphics**: Native Canvas-rendered Manhattan charts, Worm graphs, and player career progression analytics.
-
----
-
-### 💻 CogniCode — Multi-Language Collaborative Cloud IDE
-> High-throughput online developer coding workspace and instant compilation platform with real-time runner execution and interactive algorithmic challenge suites.
-
-- **Stack**: `Next.js 14` • `React 18` • `Python FastAPI Runner` • `MongoDB` • `CodeMirror` • `Tailwind CSS` • `NextAuth`
-- **Repository**: [github.com/shreekunal/cognicode](https://github.com/shreekunal/cognicode)
-- **Key Architectural Highlights**:
-  - **Multi-Language Runner**: Sandboxed compilation and code execution engine for Java, Python, C++, and JavaScript.
-  - **Modular Code Editor**: Custom CodeMirror integration with developer themes, syntax highlighting, and responsive split-pane layouts.
-  - **Challenge Suite**: Interactive markdown problem renderers, dynamic input/output test case evaluation, and progress persistence.
-  - **Secure Auth Pipeline**: NextAuth session management backed by MongoDB user schemas.
-
----
-
-### 🦅 3-Eyed Raven — Workforce Monitoring & Anti-Cheating Telemetry
-> **"I see everything. I remember everything."** — Full-stack workforce screen time monitoring, screenshot audit telemetry, Cloud Object Storage, anti-cheating, and Excel task management platform.
-
-- **Stack**: `Next.js 14 (App Router)` • `React 18` • `Supabase S3 Cloud Storage` • `better-sqlite3 (WAL)` • `SheetJS` • `JWT Auth`
-- **Repository**: [github.com/shreekunal/3-Eyed-Raven](https://github.com/shreekunal/3-Eyed-Raven)
-- **Key Architectural Highlights**:
-  - **Direct S3 Telemetry**: Automated screen captures uploaded directly to private Supabase S3 buckets with dynamically resolved AWS SigV4 1-hour presigned GET URLs.
-  - **Strict Anti-Cheating Guard**: Enforces `displaySurface: 'monitor'` via HTML5 `getDisplayMedia` — single-window or single-tab sharing is strictly rejected.
-  - **Admin On-Demand Capture**: Administrators can trigger immediate snapshot captures for active employees directly from live workforce cards.
-  - **Session Integrity Guards**: Desktop-only clock-in restriction, multi-tab `BroadcastChannel` timer locks, and 5-minute heartbeat stale session auto-cleaner.
-  - **Excel Task Engine**: SheetJS import/export with progress sliders, severity tags, and 24-hour activity heatmaps.
-
----
-
-### 📱 Everything.OS — Personal Life Operating System
-> Cross-platform personal operating system and daily performance engine unifying deep-focus Pomodoro sessions, step telemetry, intelligent hydration, and biometric security.
-
-- **Stack**: `Next.js 14` • `React 18` • `Prisma ORM` • `Capacitor (Android APK)` • `Health Connect API` • `Tailwind CSS`
-- **Releases Repository**: [github.com/shreekunal/Everthing.OS-Releases](https://github.com/shreekunal/Everthing.OS-Releases)
-- **Key Architectural Highlights**:
-  - **Offline-First SWR Caching**: Sub-50ms instant data access with seamless offline mutation queuing and optimistic UI updates.
-  - **Deep Focus Engine**: Smart Pomodoro session companion with deep work tracking and study statistics.
-  - **Vitality & Health Sync**: Step counting via Android Health Connect integration, smart hydration tracking, and dynamic wellness targets.
-  - **Glanceable Android Widgets**: Custom home screen widgets with live 7-day metric recaps and dual-lane partner sync.
-  - **Biometric Security & Auto-Updater**: Fingerprint/Face Unlock vault, auto-inactivity lock, and automated in-app APK updater.
 
 ---
 
@@ -149,6 +94,22 @@
 <img src="https://streak-stats.demolab.com/?user=shreekunal&theme=tokyonight&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakNum=E50914" alt="GitHub Streak" width="97%" />
 
 </div>
+
+---
+
+## 🚀 Featured Systems
+
+- **[🏏 CricSaga](https://github.com/shreekunal/CricSaga)** (`Kotlin` • `Jetpack Compose` • `Room SQLite WAL` • `Material 3`)  
+  High-performance native Android cricket scoring and grassroots analytics platform. Engineered with a 100% offline-first domain engine, zero-friction keypad geometry, all-weather Dark Stadium/Sunlight modes, and custom Canvas-rendered Manhattan and Worm charts.
+
+- **[💻 CogniCode](https://github.com/shreekunal/cognicode)** (`Next.js 14` • `React 18` • `FastAPI Runner` • `MongoDB` • `CodeMirror`)  
+  Collaborative online developer coding platform with sandboxed real-time compilation and execution across Java, Python, C++, and JavaScript, featuring responsive split-pane editors and an interactive problem suite.
+
+- **[🦅 3-Eyed Raven](https://github.com/shreekunal/3-Eyed-Raven)** (`Next.js 14` • `React 18` • `Supabase S3` • `better-sqlite3 WAL` • `SheetJS`)  
+  Enterprise workforce monitoring and anti-cheating platform. Features automated screen telemetry uploaded to private Supabase S3 via AWS SigV4 1-hour presigned URLs, strict full-screen capture policies (`displaySurface: monitor`), admin on-demand snapshots, and Excel task sync.
+
+- **[📱 Everything.OS](https://github.com/shreekunal/Everthing.OS-Releases)** (`Next.js 14` • `React 18` • `Prisma` • `Capacitor Android` • `Health Connect`)  
+  Cross-platform personal life operating system featuring sub-50ms offline SWR caching, Pomodoro focus session tracking, Android Health Connect step and hydration synchronization, glanceable home widgets, and biometric vault security.
 
 ---
 
