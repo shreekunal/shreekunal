@@ -3,11 +3,12 @@
 # Kunal Singh
 ### Associate SAP BTP Consultant & Systems Architect
 
-[![SAP Certified Fiori Developer](https://img.shields.io/badge/SAP%20Certified-Fiori%20Developer-0a85ea?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/6c7b3744-b0f9-4590-a619-ab8d82e148de/public_url)
-[![SAP Certified CAP Developer](https://img.shields.io/badge/SAP%20Certified-CAP%20Backend-005fa3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/f4287add-dcb5-4ed5-8697-5d2dd7cff011/public_url)
-[![SAP Certified Joule Studio](https://img.shields.io/badge/SAP%20Certified-Joule%20AI%20Studio-7b1fa2?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/82efc92d-0334-44ee-8a2d-87943c314006/public_url)
+I build enterprise apps on SAP BTP (Fiori, CAP, Joule AI) and ship full-stack products in my spare time, from native Android to real-time web platforms.
 
-<br/>
+[![SAP Certified Fiori Developer](https://img.shields.io/badge/SAP%20Certified-Fiori%20Developer-0a85ea?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/6c7b3744-b0f9-4590-a619-ab8d82e148de/public_url "SAP Certified Fiori Developer on Credly")
+[![SAP Certified CAP Developer](https://img.shields.io/badge/SAP%20Certified-CAP%20Developer-005fa3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/f4287add-dcb5-4ed5-8697-5d2dd7cff011/public_url "SAP Certified CAP Developer on Credly")
+[![SAP Certified Joule Studio](https://img.shields.io/badge/SAP%20Certified-Joule%20AI%20Studio-7b1fa2?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/82efc92d-0334-44ee-8a2d-87943c314006/public_url "SAP Certified Joule Studio on Credly")
+
 <br/>
 
 [![GitHub Commit Calendar](https://ghchart.rshah.org/e50914/shreekunal)](https://github.com/shreekunal)
@@ -19,16 +20,16 @@
 ## Featured Systems
 
 - **[CricSaga](https://github.com/shreekunal/CricSaga)** (`Kotlin` • `Jetpack Compose` • `Room SQLite WAL` • `Material 3`)  
-  Native Android grassroots cricket scoring and analytics platform. Engineered with a 100% offline-first domain engine, zero-friction keypad geometry, all-weather Dark Stadium/Sunlight modes, and custom Canvas-rendered Manhattan and Worm charts.
+  Native Android cricket scoring and analytics app for grassroots matches. Works fully offline, with a fast scoring keypad, dark and sunlight display modes, and custom Manhattan and Worm charts.
 
 - **[CogniCode](https://github.com/shreekunal/cognicode)** (`Next.js 14` • `React 18` • `FastAPI Runner` • `MongoDB` • `CodeMirror`)  
-  Collaborative online developer coding platform with sandboxed real-time compilation and execution across Java, Python, C++, and JavaScript, featuring responsive split-pane editors and an interactive problem suite.
+  Online coding platform that compiles and runs Java, Python, C++, and JavaScript in a sandbox, with split-pane editors and a built-in problem set.
 
 - **[3-Eyed Raven](https://github.com/shreekunal/3-Eyed-Raven)** (`Next.js 14` • `React 18` • `Supabase S3` • `better-sqlite3 WAL` • `SheetJS`)  
-  Enterprise workforce monitoring and anti-cheating platform. Features automated screen telemetry uploaded to private Supabase S3 via AWS SigV4 1-hour presigned URLs, strict full-screen capture policies (`displaySurface: monitor`), admin on-demand snapshots, and Excel task sync.
+  Workforce monitoring platform with automated screen capture stored privately in Supabase S3 (expiring presigned URLs), on-demand admin snapshots, and Excel task sync.
 
 - **[Everything.OS](https://github.com/shreekunal/Everthing.OS-Releases)** (`Next.js 14` • `React 18` • `Prisma` • `Capacitor Android` • `Health Connect`)  
-  Cross-platform personal operating system featuring sub-50ms offline SWR caching, Pomodoro focus session tracking, Android Health Connect step and hydration synchronization, glanceable home widgets, and biometric vault security.
+  Personal productivity app for web and Android: offline-first caching, Pomodoro focus tracking, Health Connect step and hydration sync, home-screen widgets, and a biometric-locked vault.
 
 ---
 
@@ -49,7 +50,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web & Backend Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -77,8 +78,6 @@
 <img src="https://streak-stats.demolab.com/?user=shreekunal&theme=tokyonight&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakNum=E50914" alt="GitHub Streak" width="48%" />
 
 </div>
-
-<br/>
 
 <div align="center">
 <sub>Kunal Singh • Enterprise Cloud Architecture & Systems Engineering</sub>
