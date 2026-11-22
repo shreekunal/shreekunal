@@ -7,14 +7,6 @@
 [![SAP Certified CAP Developer](https://img.shields.io/badge/SAP%20Certified-CAP%20Backend-005fa3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/f4287add-dcb5-4ed5-8697-5d2dd7cff011/public_url)
 [![SAP Certified Joule Studio](https://img.shields.io/badge/SAP%20Certified-Joule%20AI%20Studio-7b1fa2?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/82efc92d-0334-44ee-8a2d-87943c314006/public_url)
 
-<br/>
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreekunal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreekunal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shreekunal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrii.kunal@gmail.com)
-
 </div>
 
 ---
