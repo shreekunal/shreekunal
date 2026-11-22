@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#overview"><b>Overview</b></a> •
-  <a href="#technical-expertise"><b>Technical Expertise</b></a> •
+  <a href="#technical-expertise"><b>Tech Stack</b></a> •
   <a href="#professional-certifications"><b>Certifications</b></a> •
   <a href="#telemetry--activity"><b>Activity</b></a> •
   <a href="#featured-systems"><b>Featured Systems</b></a> •
@@ -24,16 +24,10 @@
 
 ## Overview
 
-Associate SAP BTP Consultant at **Raven Infotech** with hands-on experience in architecting and delivering enterprise-grade cloud extensions, transactional microservices, and AI-driven automation. Core specialization covers the **SAP Cloud Application Programming Model (CAP)**, **SAP Fiori Elements**, **SAP Integration Suite**, and **Joule Studio AI agents**, integrated seamlessly with modern distributed stacks built on **Next.js**, **Node.js/NestJS**, and **Python**.
-
-Beyond enterprise cloud platforms, experienced in engineering high-performance, offline-first native Android applications using **Kotlin**, **Jetpack Compose**, and **Room SQLite (WAL)**, alongside containerized developer workspaces. Currently completing a Master of Computer Applications (MCA '26) at KIET Group of Institutions.
-
-| Dimension | Details |
-| :--- | :--- |
-| **Current Position** | Associate SAP BTP Consultant at Raven Infotech (Delhi, India) |
-| **Academic Credential** | Master of Computer Applications (MCA '26), KIET Group of Institutions |
-| **Vendor Certifications** | Triple SAP SE Certified: Fiori Developer, CAP Backend, Joule Studio Developer |
-| **Core Competencies** | Enterprise Extensions, Event-Driven Integration, Offline-First Mobile, AI Agents |
+- **Role**: Associate SAP BTP Consultant at **Raven Infotech** (Delhi, India)
+- **Education**: Master of Computer Applications (MCA '26), **KIET Group of Institutions**
+- **Certifications**: Triple SAP SE Certified in SAP Fiori, SAP CAP Backend, and Joule Studio
+- **Focus**: Enterprise BTP Extensions, CAP/CDS Microservices, AI Agents, and Offline-First Android
 
 ---
 
@@ -78,11 +72,11 @@ Beyond enterprise cloud platforms, experienced in engineering high-performance, 
 
 ## Professional Certifications
 
-| Credential | Code | Issuer | Validity | Verification |
-| :--- | :--- | :--- | :--- | :--- |
-| **SAP Certified — SAP Fiori Application Developer** | `C_FIORDEV_24` | SAP SE | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/6c7b3744-b0f9-4590-a619-ab8d82e148de/public_url) |
-| **SAP Certified — Backend Developer — SAP CAP Model** | `C_CPE_CAP` | SAP SE | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/f4287add-dcb5-4ed5-8697-5d2dd7cff011/public_url) |
-| **SAP Certified — Joule Studio Developer** | `C_JOULE_DEV` | SAP SE | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/82efc92d-0334-44ee-8a2d-87943c314006/public_url) |
+| Certification | Validity | Verification |
+| :--- | :--- | :--- |
+| **SAP Certified — SAP Fiori Application Developer** | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/6c7b3744-b0f9-4590-a619-ab8d82e148de/public_url) |
+| **SAP Certified — Backend Developer — SAP CAP Model** | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/f4287add-dcb5-4ed5-8697-5d2dd7cff011/public_url) |
+| **SAP Certified — Joule Studio Developer** | Nov 2026 – Nov 2027 | [Credly Badge](https://www.credly.com/badges/82efc92d-0334-44ee-8a2d-87943c314006/public_url) |
 
 ---
 
