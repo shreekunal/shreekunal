@@ -7,6 +7,11 @@
 [![SAP Certified CAP Developer](https://img.shields.io/badge/SAP%20Certified-CAP%20Backend-005fa3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/f4287add-dcb5-4ed5-8697-5d2dd7cff011/public_url)
 [![SAP Certified Joule Studio](https://img.shields.io/badge/SAP%20Certified-Joule%20AI%20Studio-7b1fa2?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/badges/82efc92d-0334-44ee-8a2d-87943c314006/public_url)
 
+<br/>
+<br/>
+
+[![GitHub Commit Calendar](https://ghchart.rshah.org/e50914/shreekunal)](https://github.com/shreekunal)
+
 </div>
 
 ---
