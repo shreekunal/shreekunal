@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:E50914&height=200&section=header&text=Kunal%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Associate%20SAP%20BTP%20Consultant%20%26%20Systems%20Architect&descSize=18&descAlignY=60" alt="Kunal Singh - Associate SAP BTP Consultant & Systems Architect" width="100%" />
+<img src="assets/banner.svg" alt="Kunal Singh - Associate SAP BTP Consultant & Systems Architect" width="100%" />
 
 <a href="https://github.com/shreekunal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=E50914&center=true&vCenter=true&width=640&height=40&lines=Building+enterprise+apps+on+SAP+BTP;Fiori+%C2%B7+CAP+%C2%B7+Joule+AI;Shipping+full-stack+products+from+Android+to+web" alt="Typing animation: Building enterprise apps on SAP BTP; Fiori, CAP, Joule AI; Shipping full-stack products from Android to web" />
@@ -106,6 +106,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekunal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E50914" alt="Top Languages" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=shreekunal&theme=tokyonight&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakNum=E50914" alt="GitHub Streak" width="48%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:E50914&height=100&section=footer" alt="" width="100%" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>
