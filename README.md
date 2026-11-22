@@ -3,8 +3,6 @@
 # ⚡ KUNAL SINGH
 ### Associate SAP BTP Consultant & Full-Stack Systems Architect
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shreekunal&color=e50914&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shreekunal)
-[![GitHub Followers](https://img.shields.io/github/followers/shreekunal?label=FOLLOWERS&style=for-the-badge&color=161b22&logo=github)](https://github.com/shreekunal)
 [![SAP Certified](https://img.shields.io/badge/SAP%20SE-3x%20CERTIFIED-008fd3?style=for-the-badge&logo=sap&logoColor=white)](https://www.credly.com/users/shreekunal)
 
 <br/>
